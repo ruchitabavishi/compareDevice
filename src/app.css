@@ -1,0 +1,28 @@
+.relative{
+    position: relative;
+}
+.absolute{
+    position: absolute;
+}
+.flex{
+    display: flex
+}
+.w-full{
+    width: 100%
+}
+h1, p, h3, div{
+    color: #494949;
+    font-family: sans-serif !important
+}
+.bold{
+    font-weight: bold
+}
+.hidden{
+    visibility: hidden
+}
+.p8{
+    padding: 8px
+}
+.rounded{
+    border-radius: 8px
+}
